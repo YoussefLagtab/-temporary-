@@ -14,6 +14,6 @@
 
 int	main()
 {
-	printf("ghda lfichta\n");
+	printf("mañana es la fiesta\n");
 	return (0); // equation julia zero ya wjeh zero
 }
