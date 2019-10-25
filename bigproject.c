@@ -6,7 +6,7 @@
 /*   By: merras <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/10/19 11:23:33 by merras            #+#    #+#             */
-/*   Updated: 2019/10/25 14:01:10 by mouyizme         ###   ########.fr       */
+/*   Updated: 2019/10/25 14:43:13 by mmostafa         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,6 @@
 
 int	main()
 {
-	printf("mouyizme was here.\n");	
+	printf("ghda lfichta\n");
 	return (0); // equation julia zero ya wjeh zero
 }
